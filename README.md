@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [NerdAdvisor](https://github.com/hkuennen/nerdadvisor) together with my colleagues Arjuna Sath and Hinnerk Künnen
+- 🔭 I’m currently working on [NerdAdvisor](https://github.com/hkuennen/nerdadvisor) together with my colleagues [Arjuna](https://github.com/ajsath) and [Hinnerk](https://github.com/hkuennen)
 
 - :books: I’m currently learning **Advanced JavaScript and React**
 
