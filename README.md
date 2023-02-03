@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [NerdAdvisor](https://github.com/hkuennen/nerdadvisor) together with my colleagues [Arjuna](https://github.com/ajsath), [Chris](https://github.com/BirdBoxCode), [Hinnerk](https://github.com/hkuennen), and [My](https://github.com/mytranbui).
 
-- :books: I’m currently learning **Advanced JavaScript and React**
+- :books: I’m currently learning **Typescript and React**
 
 - 💬 Ask me about **HTML, CSS, and Bootstrap**
 
