@@ -13,11 +13,11 @@
 
 - :books: I’m currently learning **Typescript and React**
 
-- 💬 Ask me about **HTML, CSS, and Bootstrap**
+- 💬 Ask me about **HTML, CSS, and JavaScript**
 
 - 📫 How to reach me: **adityaluthfi24@outlook.com**
 
-- ⚡ Fun fact: **I have 15 cats :smile_cat:**
+- ⚡ Fun fact: **I have 16 cats :smile_cat:**
 
 <br>
 
