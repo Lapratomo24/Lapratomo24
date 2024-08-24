@@ -7,7 +7,7 @@
 
 - 💬 Ask me about Programming and Digital Marketing
 
-- 📫 How to reach me: <a href="https://linkedin.com/in/luthfipratomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthfipratomo" height="10" width="20" /></a> & <a href="https://instagram.com/adityaluthfiofcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaluthfiofcl" height="10" width="20" /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/luthfipratomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthfipratomo" height="20" width="30" /></a> & <a href="https://instagram.com/adityaluthfiofcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaluthfiofcl" height="20" width="30" /></a>
 
 - ⚡ Fun fact: **I have 16 cats :smile_cat:**
 
