@@ -15,7 +15,7 @@
 
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=white&color=yellow)
 
 
 <br>
