@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **I have 16 cats :smile_cat:**
 
-- [!JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=purple&color=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=purple&color=black)
 
 <br>
 
