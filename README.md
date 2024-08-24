@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aditya ##
-### I am a junior web developer from Indonesia. ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=lapratomo24&label=Profile%20views&color=0e75b6&style=flat" alt="lapratomo24" /> </p>
+### I am a junior web developer from Indonesia. ### 
 
 - 🔭 I’m currently working on [NerdAdvisor](https://github.com/hkuennen/nerdadvisor) together with my colleagues [Arjuna](https://github.com/ajsath), [Chris](https://github.com/BirdBoxCode), [Hinnerk](https://github.com/hkuennen), and [My](https://github.com/mytranbui).
 
@@ -12,6 +12,8 @@
 - ⚡ Fun fact: **I have 16 cats :smile_cat:**
 
 - You can check out my latest projects down below!
+
+<br>
 
 ## Tech Stack: ##
 
