@@ -1,19 +1,13 @@
 <h1>Hi 👋, I'm Aditya</h1>
-<h3>An aspiring frontend web developer from Indonesia</h3>
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lapratomo24&label=Profile%20views&color=0e75b6&style=flat" alt="lapratomo24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lapratomo24" alt="lapratomo24" /></a> </p>
+<h3>I am junior web developer from Indonesia</h3>
 
 <br>
 
 - 🔭 I’m currently working on [NerdAdvisor](https://github.com/hkuennen/nerdadvisor) together with my colleagues [Arjuna](https://github.com/ajsath), [Chris](https://github.com/BirdBoxCode), [Hinnerk](https://github.com/hkuennen), and [My](https://github.com/mytranbui).
 
-- :books: I’m currently learning **Typescript, Angular, and React**
+- :books: I’m currently learning **Angular & Python**
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
+- 💬 Ask me about Programming and Digital Marketing
 
 - 📫 How to reach me: **adityaluthfi24@outlook.com**
 
@@ -28,6 +22,12 @@
 <a href="https://linkedin.com/in/luthfipratomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthfipratomo" height="30" width="40" /></a>
 <a href="https://instagram.com/adityaluthfiofcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaluthfiofcl" height="30" width="40" /></a>
 </p>
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lapratomo24&label=Profile%20views&color=0e75b6&style=flat" alt="lapratomo24" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lapratomo24" alt="lapratomo24" /></a> </p>
 
 <br>
 
