@@ -16,6 +16,7 @@
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow&color=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
 
 
 <br>
