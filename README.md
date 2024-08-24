@@ -15,8 +15,7 @@
 
 <br>
 
-<h3 align="left">Tech Stack:</h3>
-![Static Badge](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 <br>
