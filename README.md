@@ -18,10 +18,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)
 ![Tailwind](https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=%2306B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8A2BE2?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=%237952B3&color=%237952B3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E&color=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6)
 ![Angular](https://img.shields.io/badge/Angular-8A2BE2?style=for-the-badge&logo=angular&logoColor=white&labelColor=%23cc0088&color=%23cc0088)
 ![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white&labelColor=%2361DAFB&color=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)
+![Django](https://img.shields.io/badge/Django-8A2BE2?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20&color=%23092E20)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)
+![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1)
+![Figma](https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23F24E1E&color=%23F24E1E)
+![Canva](https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 
 <br>
 
