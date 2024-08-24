@@ -32,9 +32,6 @@
 ![Canva](https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 ![Photoshop](https://img.shields.io/badge/Photoshop-8A2BE2?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=%2331A8FF)
 
-
-<br>
-
 <h3 align="left">Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lapratomo24" alt="lapratomo24" /></a> </p>
 
