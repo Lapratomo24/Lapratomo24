@@ -30,6 +30,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1)
 ![Figma](https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23F24E1E&color=%23F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
+![Photoshop](https://img.shields.io/badge/Photoshop-8A2BE2?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=%2331A8FF)
+
 
 <br>
 
