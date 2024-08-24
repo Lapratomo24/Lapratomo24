@@ -20,7 +20,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=%2306B6D4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E&color=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6)
-![Angular](https://img.shields.io/badge/Angular-8A2BE2?style=for-the-badge&logo=angular&logoColor=white&labelColor=%239900cc&color=%239900cc)
+![Angular](https://img.shields.io/badge/Angular-8A2BE2?style=for-the-badge&logo=angular&logoColor=white&labelColor=%23cc0088&color=%23cc0088)
 
 <br>
 
