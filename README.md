@@ -13,17 +13,15 @@
 
 - You can check out my latest projects down below!
 
-<br>
-
 <h3 align="left">Tech Stack:</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=%2306B6D4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E&color=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6)
+![Angular](https://img.shields.io/badge/Angular-8A2BE2?style=for-the-badge&logo=angular&logoColor=white&labelColor=%239900cc&color=%239900cc)
 
-
-<br>
 <br>
 
 <h3 align="left">Badges:</h3>
