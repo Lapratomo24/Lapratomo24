@@ -17,6 +17,8 @@
 
 <h3 align="left">Tech Stack:</h3>
 
+![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow&color=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
 
