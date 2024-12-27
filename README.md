@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NerdAdvisor](https://github.com/hkuennen/nerdadvisor) together with my colleagues [Arjuna](https://github.com/ajsath), [Chris](https://github.com/BirdBoxCode), [Hinnerk](https://github.com/hkuennen), and [My](https://github.com/mytranbui).
 
-- :books: I’m currently learning **Angular & Python**
+- :books: I’m currently learning **Angular & React**
 
 - 💬 Ask me about Programming and Digital Marketing
 
