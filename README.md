@@ -41,7 +41,7 @@
 | -------- | -------------- |
 |[Cosplay Mania](https://github.com/Lapratomo24/cosplay-mania)| [Live](https://cosplay-mania.herokuapp.com/)|
 |[TravelGramers](https://github.com/Lapratomo24/travelgramers)| [Live](https://travelgramers-blog.herokuapp.com/)|
-# |[Winter World Cup](https://github.com/Lapratomo24/winter-worldcup)| [Live](https://winter-world-cup.herokuapp.com/)|
+|[Winter World Cup](https://github.com/Lapratomo24/winter-worldcup)| [Live](https://winter-world-cup.herokuapp.com/)|
 |[WordVenturist](https://github.com/Lapratomo24/wordventurist)| [Live](https://lapratomo24.github.io/wordventurist/)|
 |[The GameHub](https://github.com/Lapratomo24/the-gamehub)| [Live](https://lapratomo24.github.io/the-gamehub/)|
 
